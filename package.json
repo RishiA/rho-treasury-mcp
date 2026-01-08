@@ -1,0 +1,24 @@
+{
+  "name": "rho-treasury-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for programmatic access to Rho treasury rates",
+  "main": "build/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "keywords": ["mcp", "rho", "treasury", "rates"],
+  "author": "Rishi Athanikar",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.2",
+    "cheerio": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

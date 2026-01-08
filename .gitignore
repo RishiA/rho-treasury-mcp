@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files (if we add any)
+.env
+.env.local
+
+# Temp files
+*.tmp
+.cache/
