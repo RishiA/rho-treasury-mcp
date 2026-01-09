@@ -19,6 +19,9 @@ Connects Claude Desktop to live treasury rate data:
 - **All 5 deposit tiers** - From $350K to $20M+
 - **Smart caching** - 1 hour for T-Bills, 24 hours for Mutual Funds
 
+## Demo
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/e49ea6c88956458c8f321e980ac23a96-0a0f1a0b94bb352c-full-play.gif#t=0.1)](https://cdn.loom.com/sessions/thumbnails/e49ea6c88956458c8f321e980ac23a96-0a0f1a0b94bb352c-full-play.gif#t=0.1)
+
 ## Quick Start
 
 **Prerequisites**: Node.js 18+, Claude Desktop
